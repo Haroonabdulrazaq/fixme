@@ -1,1 +1,1 @@
-Add readme file testing Visual studio code has bug
+Add readme file testing
